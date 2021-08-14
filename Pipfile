@@ -10,6 +10,7 @@ djangorestframework = "*"
 pillow = "*"
 pylint = "*"
 braintree = "*"
+npm = "*"
 
 [dev-packages]
 
